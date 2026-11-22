@@ -1,0 +1,1 @@
+The demo started smoothly until the main projection screen displayed a picture of a cat instead of the product UI.
